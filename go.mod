@@ -1,3 +1,3 @@
-module vercel.com/helloworld
+module helloworld
 
 go 1.19
